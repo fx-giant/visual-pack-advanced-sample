@@ -33,12 +33,6 @@ namespace("leesa.visual")["advancedBarChart"] = (function (leesa, _, d3) {
 			}
 
 
-			var _visualIdentifier = "Advanced Bar Chart"; //uncomment to see what values you have
-			console.log(_visualIdentifier + " Quadrant:", quadrant)
-			console.log(_visualIdentifier + " Visual:", visual)
-			console.log(_visualIdentifier + " Data:", data);
-			console.log(_visualIdentifier + " Parameters:", parameters);
-
 			var settings = {
 				type: "serial",
 				theme: "light",
