@@ -1,0 +1,19 @@
+{
+    "visualName": "advancedBarChart",
+    "displayName": "advancedBarChart",
+    "groupId": "visual.sandbox.advancedBarChart",
+    "packageId": "sample",
+    "author": "Hans Yulian",
+    "version": "1.0.0",
+    "scripts": [
+        "advancedBarChart.js"
+    ],
+    "styles": [
+        "advancedBarChart.css"
+    ],
+    "canConfigure3D": true,
+    "canConfigureLegend": false,
+    "canConfigureAnimation": true,
+    "canConfigureColor": true,
+    "canConfigureThreshold": false
+}
